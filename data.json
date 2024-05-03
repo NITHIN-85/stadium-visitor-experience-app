@@ -1,0 +1,42 @@
+[
+    {
+        "visitors": {
+            "sanjay j": {
+                "name": "sanjay j",
+                "age": "123",
+                "email": "123",
+                "password": "123",
+                "phno": "123",
+                "orders": [
+                    "noodles",
+                    "pizza",
+                    "pepsi"
+                ]
+            }
+        }
+    },
+    {
+        "visits": {
+            "sanjay j": {
+                "user": {
+                    "name": "sanjay j",
+                    "age": "123",
+                    "email": "123",
+                    "password": "123",
+                    "phno": "123",
+                    "orders": [
+                        "noodles",
+                        "pizza",
+                        "pepsi"
+                    ]
+                },
+                "room": "",
+                "food": [
+                    "noodles",
+                    "pizza",
+                    "pepsi"
+                ]
+            }
+        }
+    }
+]
